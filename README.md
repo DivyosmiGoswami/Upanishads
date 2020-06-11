@@ -1,0 +1,2 @@
+# Upanishads
+Upanishads in python
